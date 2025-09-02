@@ -1,0 +1,28 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.factorypath
+
+# Java
+*.class
+*.log
+
+# Build outputs
+/bin/
+/out/
+
+# Maven / Gradle
+target/
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+sigue con el 
