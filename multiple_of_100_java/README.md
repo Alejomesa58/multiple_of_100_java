@@ -25,11 +25,8 @@ Input (typed in the Eclipse Console):
 12600
 12345 100
 77
-
-makefile
-Copiar código
 Output:
 multiple of 100
 not multiple of 100
 multiple of 100
-not multiple # Multiple of 100 (Java)
+not multiple
